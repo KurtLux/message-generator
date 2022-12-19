@@ -1,8 +1,8 @@
 const problemas = ['diarréia', 'prisão de ventre', 'flatulência', 'impotência',
 'unha encravada', 'dor nas juntas', 'mau olhado', 'possuído(a) pelo demo',
-'coceira no cu', 'azar no jogo'];
+'coceira no rabo', 'azar no jogo'];
 
-const agente1 = ['Teta', 'Testa', 'Lua', 'Xana', 'Pica', 'Mão','Pipoca', 
+const agente1 = ['Gota', 'Testa', 'Lua', 'Banana', 'Sarda', 'Mão','Pipoca', 
 'Lágrima', 'Unha', 'Espinha'];
 
 const agente2 = ['Grande', 'Berta', 'Podre', 'Suprema', 'Latejante', 'Vermelha', 
@@ -12,7 +12,7 @@ const terapia = ['Reiki Quântico', 'Constelação Familiar Sistêmica', 'Tarot 
 , 'Fitoenegética','Radiestesi e Radiônica', 'Registros Akáshicos', 'ThetaHealing',
 'Barras de Access Consciousness', 'Access Consciousness', 'Coach Holístico Quântico'];
 
-const futuro = ['dinheiro', 'dor no cu', 'gratidão', 'bicho de pé', 'corrimento',
+const futuro = ['dinheiro', 'gonorréia', 'gratidão', 'bicho de pé', 'corrimento',
 'cheiro na virilha', 'alegria de viver', 'tesão', 'vermes', 'pêlos no olho'];
 
 function rnd(array) {
